@@ -21,6 +21,7 @@ This repository contains the tasks and projects I worked on as part of my intern
    To preprocess and clean textual data for better analysis.
    To extract and classify sentiment scores as positive, negative, or neutral.
    To visualize sentiment trends and identify patterns in customer reviews.
+   
    -**Key Steps**:
    1. Data Preprocessing
    Removed unnecessary elements like punctuation, numbers, and stopwords.
