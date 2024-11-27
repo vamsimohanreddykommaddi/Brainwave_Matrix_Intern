@@ -37,6 +37,8 @@ This repository contains the tasks and projects I worked on as part of my intern
    Logistic Regression
    Random Forest Classifier
    Achieved high accuracy (>80%) using TF-IDF and CountVectorizer features.
+
+
    -**Technologies Used**:
    Python: Primary programming language.
    Libraries:
