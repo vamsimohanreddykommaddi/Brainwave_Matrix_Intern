@@ -41,8 +41,11 @@ This repository contains the tasks and projects I worked on as part of my intern
 
    -**Technologies Used**:
    Python: Primary programming language.
-   Libraries:
-   Data Manipulation: pandas, numpy
+   
+   Libraries: Data Manipulation: pandas, numpy
+   
    NLP: nltk, TextBlob
+   
    Visualization: matplotlib, seaborn, wordcloud
+   
    Machine Learning: sklearn
